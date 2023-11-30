@@ -519,7 +519,7 @@ body {
 @media (max-width: 768px) {
 
     .tarjetas__imagen img{
-        width: 50%;
+        width: 65%;
         height: auto;
         
     }
