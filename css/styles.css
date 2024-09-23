@@ -124,7 +124,7 @@ body {
     /* Centrar horizontalmente */
     transform: translateX(-50%);
     white-space: nowrap;
-    background-color: #fff;
+    background-color: #02a43d;
     color: #000;
     padding: 8px 10px;
     border-radius: 5px;
@@ -168,7 +168,7 @@ body {
     right: 100%; /* Posicionar a la izquierda del botón */
     transform: translate(-15%, -50%); /* Ajuste para alinear exactamente al centro */
     white-space: nowrap;
-    background-color: #fff;
+    background-color: #02a43d;
     color: #000;
     padding: 8px 10px;
     border-radius: 5px;
@@ -190,7 +190,7 @@ body {
     text-align: center;
     padding: 10px 0;
     /* Espaciado dentro del banner */
-    background-color: #efeeee;
+    background-color: #ffffff;
 
 
 }
@@ -227,7 +227,7 @@ body {
     display: grid;
     grid-template-columns: 1fr; /* Una columna para cada servicio */
     gap: 20px;
-    background-color: #ffd987; /* Color de fondo para el título */
+    background-color: #ffffff; /* Color de fondo para el título */
 
 }
 
@@ -242,7 +242,7 @@ body {
 }
 
 .servicios__h2-span {
-    border-top: 3px solid #ffffff; /* Aplica el borde al span en lugar del h2 */
+    border-top: 3px solid #ffbd2f; /* Aplica el borde al span en lugar del h2 */
 
     /* Puedes añadir otros estilos aquí si es necesario */
 }
@@ -304,8 +304,8 @@ body {
 }
 
 .sobre-nosotros{
-    border-bottom: 3px solid #ffd782; /* Aplica el borde al span en lugar del h2 */
-    border-top: 3px solid #ffd782; /* Aplica el borde al span en lugar del h2 */
+    border-bottom: 3px solid #ffbd2f; /* Aplica el borde al span en lugar del h2 */
+    border-top: 3px solid #ffbd2f; /* Aplica el borde al span en lugar del h2 */
 
 }
 .servicio {
@@ -359,7 +359,7 @@ body {
 
 .tarjetas__h2-span{
   
-        border-bottom: 3px solid #ebebeb;
+        border-bottom: 3px solid #ffbd2f;
         padding-bottom: 1rem; /* Añade espacio entre el texto y la línea de borde */
         display: inline-block; /* Asegura que el padding y el borde se apliquen correctamente */
         background-clip: content-box; /* Hace que el fondo (y por lo tanto, el borde) se aplique solo al contenido, no al padding */
@@ -402,7 +402,7 @@ body {
        /* Estilos para h2 */
        font-size: 4rem;
        padding: 10px;
-       background-color: #ffd782; /* Color de fondo para el título */
+       background-color: #ffffff; /* Color de fondo para el título */
        margin: 0; /* Elimina los márgenes predeterminados */
        text-align: center;
    }
